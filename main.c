@@ -2,4 +2,6 @@
 
 void showmessage()
 {
+	printf();
+	printf();
 }
